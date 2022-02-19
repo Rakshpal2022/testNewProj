@@ -2,3 +2,9 @@
 Console.WriteLine("Hello, World!");
 //test
 Console .WriteLine("test second");
+
+class test{
+    void sum(){
+        
+    }
+}
